@@ -1,0 +1,52 @@
+Title         : Interlectual Property
+
+Author        : You
+Affiliation   : Research institute
+Email         : you@bar.com
+
+Bibliography  : example.bib
+
+[INCLUDE=book]
+[INCLUDE=webtoc]
+[INCLUDE=webanchors]
+
+[TITLE]
+
+~ Begin SidePanel
+[TOC]
+~ End SidePanel
+
+~ Begin MainPanel
+
+# Introduction     { #sec-intro }
+
+Let's start with a sub section.
+
+## A short overview
+
+法律诉讼中的问题
+
+五要素:
+
+1. 主体
+- 客体(需要有是否构成作品的条件,什么样的方案才能作为)
+上海美术电影厂的葫芦娃与黑猫警长.
+
+- 权能(什么是著作权的权能, a bundle of rights)
+
+谷歌照片搜索,属于信息网络传播方便的犯罪吗?
+
+知识产权的使用更多地涉及授权,侵害了他的著作的许可权.
+
+
+- 限制(有些时候即使符合权能的定义,但仍然不需要承担法律责任)
+
+
+
+
+
+[BIB]
+
+&pagebreak;
+
+~ End MainPanel
